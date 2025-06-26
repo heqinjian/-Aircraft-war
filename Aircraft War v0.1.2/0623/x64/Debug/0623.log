@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(215,67): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(216,47): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(328,41): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(329,41): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(444,34): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(595,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(1148,39): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\h1427\Desktop\Aircraft War v0.1.0\0623\FileName.cpp(1230,22): warning C4018: “>”: 有符号/无符号不匹配
+  0623.vcxproj -> C:\Users\h1427\Desktop\Aircraft War v0.1.0\x64\Debug\0623.exe
