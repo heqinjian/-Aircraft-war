@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\h1427\Desktop\0623\0623\FileName.cpp(289,34): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\h1427\Desktop\0623\0623\FileName.cpp(412,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\h1427\Desktop\0623\0623\FileName.cpp(893,39): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\h1427\Desktop\0623\0623\FileName.cpp(974,22): warning C4018: “>”: 有符号/无符号不匹配
+  0623.vcxproj -> C:\Users\h1427\Desktop\0623\x64\Debug\0623.exe
